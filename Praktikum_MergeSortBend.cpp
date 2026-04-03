@@ -83,7 +83,7 @@ void mergeSort(int low, int high)
     }
 
     // step 5
-    for (int m = low; m <= high; x++)
+    for (int m = low; m <= high; m++)
     {
         arr[m] = B[m];
     }
